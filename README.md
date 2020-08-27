@@ -2,7 +2,7 @@
 
 ## I'm a Developer and (hope in future)Teacher!
 
-- 🔭 I’m currently working on app called [Treninoo][https://play.google.com/store/apps/details?id=it.samuelebesoli.treninoo]!
+- 🔭 I’m currently working on app called [Treninoo][https://play.google.com/store/apps/details?id=it.samuelebesoli.treninoo]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Try to start YouTube Video for programmers
 - ⚡ Fun fact: I love pizza and carbonara (yes, I'm Italian)
