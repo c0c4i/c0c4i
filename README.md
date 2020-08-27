@@ -2,11 +2,11 @@
 
 ## I'm a Developer and (hope in future)Teacher!
 
-- 🔭 I’m currently working on app called [Treninoo][https://play.google.com/store/apps/details?id=it.samuelebesoli.treninoo]
+- 🔭 I’m currently working on app called [Treninoo](https://play.google.com/store/apps/details?id=it.samuelebesoli.treninoo)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Try to start YouTube Video for programmers
 - ⚡ Fun fact: I love pizza and carbonara (yes, I'm Italian)
 
 ### Connect with me:
 
-[<img align="left" alt="c0c4i | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/samuele-besoli]
+[<img align="left" alt="c0c4i | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] (https://linkedin.com/in/samuele-besoli)
