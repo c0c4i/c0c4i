@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on app called [City Helper](https://cityhelper.app) and [Treninoo](https://github.com/c0c4i/treninoo)
 - 🌱 I have a bachelor degree in [Computer Science](https://www.di.univr.it/?ent=cs&id=420) from Università degli Studi di Verona
-- 🥅 2022 Goals: Improve City Helper, Treninoo and more
+- 🥅 2024 Goals: Improve City Helper, Treninoo and more
 - ⚡ Fun fact: I love pizza and carbonara (yes, I'm Italian)
 
 ### Known Programming Framework:
